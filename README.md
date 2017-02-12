@@ -1,6 +1,5 @@
-# template
+# audio-study
 
-This is my gulp project template.
 
 ## development
 
