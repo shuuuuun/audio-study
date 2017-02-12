@@ -1,6 +1,5 @@
 import AudioController from './modules/AudioController';
 
-const container = document.querySelector('.container');
 const winH = window.innerHeight;
 const audioController = new AudioController({
   rangeOfPitch: 30,
